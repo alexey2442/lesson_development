@@ -1,2 +1,2 @@
 nickname = "Alexey"
-print('Hello world!', nickname)
+print(f'Hello {nickname}!')
